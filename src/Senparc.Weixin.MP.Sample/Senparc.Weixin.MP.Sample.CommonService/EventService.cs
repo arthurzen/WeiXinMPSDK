@@ -31,7 +31,7 @@ using Senparc.Weixin.MP.Sample.CommonService.Utilities;
 namespace Senparc.Weixin.MP.Sample.CommonService
 {
     /// <summary>
-    /// 全局微信事件有关的处理程序
+    /// 全局微信事件有关的处理程序q
     /// </summary>
     public class EventService
     {
